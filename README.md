@@ -1,5 +1,5 @@
 # Quizmaker for Websites
-A program that makes a quiz from a wikipedia 
+A program that makes a quiz from a wikipedia page
 
  other websites wil be add later
 if you have idea's for other websites let me now!!!
